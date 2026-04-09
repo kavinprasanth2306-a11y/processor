@@ -1,0 +1,5 @@
+{
+  "name": "SchedSim: Process Scheduling Simulator",
+  "description": "A real-world OS process scheduling simulator implementing FCFS, SJF, and Round Robin algorithms with Gantt chart visualization and performance metrics.",
+  "requestFramePermissions": []
+}
